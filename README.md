@@ -6,6 +6,7 @@ This repo tracks my daily progress learning Data Science the 80/20 way.
 
 ## Index
 - [Day 01](./Day01/Day01_README.md)
+- [Day 02](./Day02/Day02_README.md)
 
 ## Goals
 - Build strong Python + NumPy foundations
